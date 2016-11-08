@@ -1,0 +1,7 @@
+*.wav
+*.txt
+*.mp3
+*.pyc
+.idea/
+*.pdf
+*.html
